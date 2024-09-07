@@ -1,0 +1,47 @@
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuciones
+build/
+dist/
+*.egg-info/
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# Archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de salida o depuración
+*.log
+
+/[Cc]ollab/
+
+# Archivos de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Archivos específicos del sistema operativo
+.DS_Store
+*.swp
+Thumbs.db
+
+# Archivos específicos de VSCode
+.vscode/
+
+*.mov
